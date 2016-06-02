@@ -21,3 +21,4 @@
   -moz-animation-duration:1s;
   animation-duration:1s;
 }
+body { padding-bottom: 70px; }

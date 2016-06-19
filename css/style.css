@@ -1,6 +1,6 @@
 
 .round{border-radius:100px;width:120px}
-.center{text-align:center;}
+.center{text-align:center;margin-bottom:5em;}
 .container{margin-top:1.5em;}
 /* make keyframes that tell the start state and the end state of our object */
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }

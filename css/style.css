@@ -103,4 +103,4 @@
            -moz-osx-font-smoothing: grayscale;
            transform: translate(0, 0);
           }
-.content{margin-bottom:5em;}
+.content{margin-bottom:5em;min-height:350px;}

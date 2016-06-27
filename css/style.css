@@ -104,3 +104,32 @@
            transform: translate(0, 0);
           }
 .content{margin-bottom:5em;min-height:350px;}
+
+.container-fluid{
+ padding:15px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+ color: #fff;
+ background-color: #00aced;
+ border-radius: 19px;
+ box-shadow: 0px 0px 28px #fff;
+}
+.brand {
+ color: #00aced!important;
+ font-size:45px;
+font-family: 'Tangerine', serif;
+}
+#mainNavbar{
+ font-size:40px;
+ color:white;
+font-family: 'Tangerine', serif;
+}
+#mainNavbar ul li a{
+ padding:15px;
+}
+
+
+body {
+
+// font-size: 20px;
+}

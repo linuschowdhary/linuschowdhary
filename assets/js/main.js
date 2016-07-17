@@ -560,7 +560,7 @@ $(document).ready(function($){
 			lng : 88.3288,
 			icon: 'images/marker-icon.png',
 			infoWindow: {
-				content: '<p>BD InfoSys Ltd, Dhaka, Bangladesh</p>'
+				content: '<p>Rishra, sweet home! :)</p>'
 			}
 		});
 	}

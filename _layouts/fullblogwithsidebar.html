@@ -1,0 +1,170 @@
+---
+layout: page
+---
+<header id="navigation" class="root-sec white nav">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="nav-inner">
+                    <nav class="primary-nav">
+                        <div class="clearfix nav-wrapper">
+                            <span class="logo-text">&lt;s/&gt;</span>
+                            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                            <ul class="right static-menu">
+                                <li class="search-form-li">
+                                    <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
+                                    <div class="search-form-wrap hide">
+                                        <form action="#" class="">
+                                            <input type="search" class="search">
+                                            <button type="submit"><i class="mdi-action-search"></i>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a class="dropdown-button blog-submenu-init" href="#!" data-activates="dropdown1">
+                                        <i class="mdi-navigation-more-vert right"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="inline-menu side-nav" id="mobile-demo">
+
+                                <!-- Mini Profile // only visible in Tab and Mobile -->
+                                <li class="mobile-profile">
+                                    <div class="profile-inner">
+                                        <div class="pp-container">
+                                            <img src="images/person.png" alt="">
+                                        </div>
+                                        <h3>Sunil Chowdhary</h3>
+                                        <h5>AEM Lead Developer</h5>
+                                    </div>
+                                </li> <!-- mini profile end-->
+
+                                <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Home</a>
+                                </li>
+                                <li><a href="blog-with-sidebar.html"><i class="fa fa-pencil fa-fw"></i>Blog with Sidebar</a>
+                                </li>
+                                <li><a href="blog.html"><i class="fa fa-pencil fa-fw"></i>Blog Full width</a>
+                                </li>
+                                <li><a href="single.html"><i class="fa fa-pencil fa-fw"></i>Single Blog</a>
+                                </li>
+                            </ul>
+                            <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
+                                <li><a href="#">Demo link 1</a>
+                                </li>
+                                <li><a href="#">Demo link 2</a>
+                                </li>
+                                <li><a href="#">Demo link 3</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header> <!-- header navigation end -->
+<!-- Banner start -->
+<section id="banner" class="root-sec brand-bg padd-tb-73 blogpage-banner-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="clearfix blog-banner-text">
+                <div class="col-sm-8 col-md-8 col-lg-8">
+                    <h2 class="title">BLOG</h2>
+                    <p class="regular-text">A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> <!-- ./Banner end -->
+
+
+<!-- Blog Post Container -->
+<section class="bottom-50 root-sec grey lighten-5 blogpage-posts-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="clearfix all-blog-post blog-inner with-sidebar">
+                <div class="col-sm-8">
+                    <div class="row" id="blog-posts">
+                        {{content}}
+                    </div>
+                </div>
+
+                <!-- Sidebar -->
+                <div class="col-sm-4">
+                    <div class="primary-sidebar">
+                        <aside class="single-widget">
+                            <h2 class="widget-title">RECENT POSTS</h2>
+                            <ul>
+                                <li>
+                                    <a href="">The Image Post One</a>
+                                    <span>March 24, 2015</span>
+                                </li>
+                                <li>
+                                    <a href="">The Image Post Two</a>
+                                    <span>March 24, 2015</span>
+                                </li>
+                                <li>
+                                    <a href="">The Image Post Three</a>
+                                    <span>March 24, 2015</span>
+                                </li>
+                                <li>
+                                    <a href="">The Image Post Four</a>
+                                    <span>March 24, 2015</span>
+                                </li>
+                                <li>
+                                    <a href="">The Image Post Five</a>
+                                    <span>March 24, 2015</span>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside class="single-widget">
+                            <h2 class="widget-title">CATEGORIES</h2>
+                            <ul>
+                                <li><a href="#">UX Design</a>
+                                </li>
+                                <li><a href="#">UI Design</a>
+                                </li>
+                                <li><a href="#">HTML</a>
+                                </li>
+                                <li><a href="#">Audio</a>
+                                </li>
+                                <li><a href="#">Video</a>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside class="single-widget">
+                            <h2 class="widget-title">ARCHIVES</h2>
+                            <ul>
+                                <li><a href="#">March 24, 2015</a>
+                                </li>
+                                <li><a href="#">April 24, 2015</a>
+                                </li>
+                                <li><a href="#">May 24, 2015</a>
+                                </li>
+                                <li><a href="#">June 24, 2015</a>
+                                </li>
+                                <li><a href="#">July 24, 2015</a>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside class="single-widget">
+                            <h2 class="widget-title">TAGS</h2>
+                            <div class="widget-text">
+                                <a href="#" class="tags">Art</a>
+                                <a href="#" class="tags">Awesome</a>
+                                <a href="#" class="tags">Style</a>
+                                <a href="#" class="tags">Image</a>
+                                <a href="#" class="tags">Design</a>
+                                <a href="#" class="tags">Post</a>
+                                <a href="#" class="tags">Three</a>
+                                <a href="#" class="tags">Typhography</a>
+                                <a href="#" class="tags">BDinfosys</a>
+                            </div>
+                        </aside>
+                    </div>
+                </div> <!-- ./sidebar end -->
+            </div>
+        </div>
+    </div>   <!-- ./container end -->
+</section> <!-- ./Blog Post container end-->

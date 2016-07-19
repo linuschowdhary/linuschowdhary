@@ -14,7 +14,7 @@
  ----------------------------------- */
 
 header.nav {
-	position: relative;
+	/*position: relative;*/
 }
 
 .blogpage-banner-wrap {
@@ -446,4 +446,9 @@ a.tags:hover {
 		display: none;
 	}
 
+}
+
+.padd-t-135-b-55{
+	padding-top:135px;
+	padding-bottom:55px;
 }

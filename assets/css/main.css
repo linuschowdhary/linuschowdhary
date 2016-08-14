@@ -1917,3 +1917,51 @@ margin-top: -6px;
     color: white;
     font-size: 60px;
 }
+
+span.b-white{
+    width: 2em;
+    height: 2em;
+    position: absolute;
+    bottom: -0.2em;
+    right: 45%;
+    -webkit-border-radius: 4em;
+    -moz-border-radius: 4em;
+    border-radius: 4em;
+    background-color: #00bcd4 !important;
+}
+
+span.t-blue{
+    width: 2em;
+    height: 2em;
+    position: absolute;
+    top: -0.2em;
+    left: 45%;
+    -webkit-border-radius: 4em;
+    -moz-border-radius: 4em;
+    border-radius: 4em;
+    background-color: #FFFFFF !important;
+}
+
+span.b-blue{
+    width: 2em;
+    height: 2em;
+    position: absolute;
+    bottom: -0.2em;
+    right: 45%;
+    -webkit-border-radius: 4em;
+    -moz-border-radius: 4em;
+    border-radius: 4em;
+    background-color: #FFFFFF !important;
+}
+
+span.t-white{
+    width: 2em;
+    height: 2em;
+    position: absolute;
+    top: -0.2em;
+    left: 45%;
+    -webkit-border-radius: 4em;
+    -moz-border-radius: 4em;
+    border-radius: 4em;
+    background-color: #00bcd4 !important;
+}

@@ -571,6 +571,11 @@ $(document).ready(function($){
 
 $(window).load(function(){
 
+	if(window.location.hash.substr(1)) {
+		$('html, body').animate({
+			scrollTop: $('#' + window.location.hash.substr(1)).offset().top
+		}, 1000);
+	}
 	// section calling
 	$('.section-call-to-btn.call-to-home').waypoint({
 		handler: function(event, direction) {

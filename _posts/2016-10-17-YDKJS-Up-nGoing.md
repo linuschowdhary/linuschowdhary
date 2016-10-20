@@ -113,6 +113,61 @@ as well as the inner doLogin() function; these are all private inner details of 
 that cannot be accessed from the outside world.
 
 
+this identifier :-
+If a function has this reference inside it , that this reference usually points to an object. But which 
+object it points to depends on how the function was called.
+
+function foo(){
+console.log(this.bar);
+}
+var bar="global"; 
+
+var obj1={
+bar:"obj1",
+foo:foo
+}
+
+var obj2={
+bar:"obj2"
+}
+
+foo(); //global     | sets this to the global js object in no strict mode , 
+                      in strict mode it would be undefined and would get an error
+                      in accessing bar property. 
+obj1.foo(); //"obj1" |  sets this to the obj1 object
+foo.call(obj2); //"obj2" | sets this to the obj2 object
+new foo(); //undefined | sets this to brand new empty object
+
+Prototypes :-
+When you reference a property on an object,if that property doesn't exist, JS will automatically use
+that objec's internal prototype reference to find another object to look for the property on.Think of it as fallback if property is missing.
+The internal prototype reference linkage from one object to its fallback happens at the time the object is created. 
+It can be illustrated with built-in utility called Object.create(..) .
+
+var foo={
+a:42
+};
+
+var bar=Object.create(foo); // create 'bar' and link it to 'foo'
+  
+bar.b="hello";
+
+  ---------                              -------  
+|    bar   | ---prototype link-------> |  foo    |
+|  b:hello |                           |  a:42   | 
+  ---------                              -------
+
+bar.b; //"hello"
+bar.a; //42 <-- delegated to 'foo'
+
+The a property does not actually exist on bar object, but because bar is prototype-linked to foo, JS
+automatically falls back to looking for a on the foo object, where it's found.'
+Used in pattern behavior delegation where you intentionally design your linked objects to be able to 
+delegate from one to other for parts of needed behavior.
+
+Techniques to bring newer js stuff to older browsers :-
+Polyfilling:
+
 
 
 

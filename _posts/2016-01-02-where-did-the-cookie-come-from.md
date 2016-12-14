@@ -2,6 +2,20 @@
 layout: post
 category: Information
 ---
-The chocolate chip cookie was invented by Ruth Graves Wakefield. She owned the Toll House Inn, in Whitman, Massachusetts, a very popular restaurant that featured home cooking in the 1930s. Her cookbook, Toll House Tried and True Recipes, was first published in 1936 by M. Barrows &amp; Company, New York. The 1938 edition of the cookbook was the first to include the recipe "Toll House Chocolate Crunch Cookie" which rapidly became a favorite cookie in American homes.
 
-Source / Read more [Wikipedia](https://en.wikipedia.org/wiki/Chocolate_chip_cookie)
+1 ) Install Chocolatey in windows
+
+    Open cmd prompt and use below command :
+
+    @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+   Close and reopen cmd prompt.
+   Ref.:    https://chocolatey.org/
+   https://chocolatey.org/install
+
+
+1) Install Jekyll on Windows:
+https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/
+
+
+

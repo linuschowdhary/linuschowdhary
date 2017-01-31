@@ -24,7 +24,8 @@ Use Sarog's method in url [30 secs of work :)] :
 Copy pasting Sarog's[https://gist.github.com/sarog] comment for easier access :-
 sarog commented 5 days ago
 Guys, there's an even simpler method.
-I created a new file called root-r1.pem inside the folder C:\Ruby23-x64\lib\ruby\2.3.0\rubygems\ssl_certs and then copy/pasted the following GlobalSign Root R1 certificate (click "View Base64"). It worked on Windows 10 x64 without having to mess around with OpenSSL DER/PEM conversions.
+I created a new file called root-r1.pem inside the folder
+C:\Ruby23-x64\lib\ruby\2.3.0\rubygems\ssl_certs and then copy/pasted the following GlobalSign Root R1 certificate (click "View Base64"). It worked on Windows 10 x64 without having to mess around with OpenSSL DER/PEM conversions.
 
 -----BEGIN CERTIFICATE-----
 MIIDdTCCAl2gAwIBAgILBAAAAAABFUtaw5QwDQYJKoZIhvcNAQEFBQAwVzELMAkG
@@ -49,7 +50,7 @@ HMUfpIBvFSDJ3gyICh3WZlXi/EjJKSZp4A==
 -----END CERTIFICATE-----
 
 
-Running Jekyll :-
+Running Jekyll :-rwq`
 
 jekyll serve [from your site directory, so that it can travel through the site heirarchy]
 
@@ -111,4 +112,6 @@ use in page
 
 Layouts :-
 
+Minify html, css, js
+https://github.com/digitalsparky/jekyll-minifier
 

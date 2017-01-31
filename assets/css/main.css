@@ -1965,3 +1965,26 @@ span.t-white{
     border-radius: 4em;
     background-color: #00bcd4 !important;
 }
+.skypebutton p a>img{
+margin-right:0px!important;
+margin-top:0px!important;
+margin-bottom:0px!important;
+}
+.skypebutton p a{
+display:inline-flex;
+}
+
+.person-img>img:hover {
+border-top-left-radius: 120px;
+border-bottom-right-radius: 120px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+.person-img>img {
+border-bottom-left-radius: 120px;
+border-top-right-radius: 120px;
+border-bottom-right-radius: 15px;
+border-top-left-radius: 15px;
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}

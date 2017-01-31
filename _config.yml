@@ -1,2 +1,6 @@
 url: http://www.sunilchowdhary.com
 show_drafts: true
+#gems:
+   # - jekyll-minifier
+#jekyll-minifier:
+# exclude: '*.xml,*.php'# Exclude files from processing - file name, glob pattern or array of file names and glob patterns

@@ -52,7 +52,7 @@ HMUfpIBvFSDJ3gyICh3WZlXi/EjJKSZp4A==
 
 Running Jekyll :-rwq`
 
-jekyll serve [from your site directory, so that it can travel through the site heirarchy]
+jekyll serve --profile [from your site directory, so that it can travel through the site heirarchy]
 
 File Structure :
 _config.yml : to set variables, kind of global which u can access through out the site.Holds configuration of site
@@ -114,4 +114,21 @@ Layouts :-
 
 Minify html, css, js
 https://github.com/digitalsparky/jekyll-minifier
+Page Speed Tool
+https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsunilchowdhary.com
+
+Optimize images :
+1) https://github.com/nidi3/jekyll-image_optimizer [Didnt' work, too lazy to go with y]
+gem install jekyll-image_optimizer [Didn't work]
+
+2)https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/
+
+https://www.cloudflare.com/a/performance/sunilchowdhary.com#minify
+//Get optimized css, images and js from :
+https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsunilchowdhary.com%2F&tab=desktop
+
+
+
+
+
 

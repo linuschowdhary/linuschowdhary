@@ -2,60 +2,180 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e1f4bff-dc85-4ede-84b4-6ca45d4db90e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/skype-uri.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/Infosys.jpg" afterPath="$PROJECT_DIR$/_site/images/Infosys.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/Sapient.jpg" afterPath="$PROJECT_DIR$/_site/images/Sapient.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/TCS.jpg" afterPath="$PROJECT_DIR$/_site/images/TCS.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/avatar.png" afterPath="$PROJECT_DIR$/_site/images/avatar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/cemk.jpg" afterPath="$PROJECT_DIR$/_site/images/cemk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/cmt1.jpg" afterPath="$PROJECT_DIR$/_site/images/cmt1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/cmt2.jpg" afterPath="$PROJECT_DIR$/_site/images/cmt2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/favicon.png" afterPath="$PROJECT_DIR$/_site/images/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/fun-facts-bg.jpg" afterPath="$PROJECT_DIR$/_site/images/fun-facts-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/home-bg.jpg" afterPath="$PROJECT_DIR$/_site/images/home-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/logo.png" afterPath="$PROJECT_DIR$/_site/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/marker-icon.png" afterPath="$PROJECT_DIR$/_site/images/marker-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/me-icon.png" afterPath="$PROJECT_DIR$/_site/images/me-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/me.png" afterPath="$PROJECT_DIR$/_site/images/me.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/paypalpaybutton.png" afterPath="$PROJECT_DIR$/_site/images/paypalpaybutton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/person.png" afterPath="$PROJECT_DIR$/_site/images/person.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/sccs.jpg" afterPath="$PROJECT_DIR$/_site/images/sccs.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/skills-bg.jpg" afterPath="$PROJECT_DIR$/_site/images/skills-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/unknown.jpg" afterPath="$PROJECT_DIR$/_site/images/unknown.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/video-placeholder.png" afterPath="$PROJECT_DIR$/_site/images/video-placeholder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Sapient.jpg" afterPath="$PROJECT_DIR$/images/Sapient.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/TCS.jpg" afterPath="$PROJECT_DIR$/images/TCS.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/avatar.png" afterPath="$PROJECT_DIR$/images/avatar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cemk.jpg" afterPath="$PROJECT_DIR$/images/cemk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cmt1.jpg" afterPath="$PROJECT_DIR$/images/cmt1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cmt2.jpg" afterPath="$PROJECT_DIR$/images/cmt2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.png" afterPath="$PROJECT_DIR$/images/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/fun-facts-bg.jpg" afterPath="$PROJECT_DIR$/images/fun-facts-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home-bg.jpg" afterPath="$PROJECT_DIR$/images/home-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/infosys.jpg" afterPath="$PROJECT_DIR$/images/infosys.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/marker-icon.png" afterPath="$PROJECT_DIR$/images/marker-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/me-icon.png" afterPath="$PROJECT_DIR$/images/me-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/me.png" afterPath="$PROJECT_DIR$/images/me.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/paypalpaybutton.png" afterPath="$PROJECT_DIR$/images/paypalpaybutton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/person.png" afterPath="$PROJECT_DIR$/images/person.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sccs.jpg" afterPath="$PROJECT_DIR$/images/sccs.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/skills-bg.jpg" afterPath="$PROJECT_DIR$/images/skills-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/unknown.jpg" afterPath="$PROJECT_DIR$/images/unknown.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/video-placeholder.png" afterPath="$PROJECT_DIR$/images/video-placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1088128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/2a7cfe0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Sapient.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TCS.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/_text_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cemk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cmt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cmt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dropdowncallbutton_24px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fun-facts-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/home-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/infosys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/marker-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/me-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/paypalpaybutton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sccs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sjv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/skills-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/unknown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/video-placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/sweet-alert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/sweet-alert.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.woff2" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/installchocolatey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/me_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/detectmobilebrowser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.counterup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.nicescroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/skype-uri.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.flash.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/AjaxLoader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/grabbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.transitions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/sweet-alert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/sweet-alert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/installchocolatey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/me_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/skype-uri.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" afterPath="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/blog.css" afterPath="$PROJECT_DIR$/_site/assets/css/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/_site/assets/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/normalize.css" afterPath="$PROJECT_DIR$/_site/assets/css/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/responsive.css" afterPath="$PROJECT_DIR$/_site/assets/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/js/gmaps.js" afterPath="$PROJECT_DIR$/_site/assets/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/_site/assets/js/jquery.counterup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/_site/assets/js/jquery.easing.1.3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/css/materialize.min.css" afterPath="$PROJECT_DIR$/_site/assets/libs/materialize/css/materialize.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/js/common.js" afterPath="$PROJECT_DIR$/_site/assets/js/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog.html" afterPath="$PROJECT_DIR$/_site/blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/information/2016/01/01/Learn-js-1.html" afterPath="$PROJECT_DIR$/_site/information/2016/01/01/Learn-js-1.html" />
@@ -66,14 +186,91 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/make-a-payment-success.html" afterPath="$PROJECT_DIR$/_site/make-a-payment-success.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/make-a-payment.html" afterPath="$PROJECT_DIR$/_site/make-a-payment.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/single.html" afterPath="$PROJECT_DIR$/_site/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/blog.css" afterPath="$PROJECT_DIR$/assets/css/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/normalize.css" afterPath="$PROJECT_DIR$/assets/css/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/responsive.css" afterPath="$PROJECT_DIR$/assets/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/gmaps.js" afterPath="$PROJECT_DIR$/assets/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" afterPath="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/common.js" afterPath="$PROJECT_DIR$/assets/js/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/normalize.css" afterPath="$PROJECT_DIR$/assets/css/libs/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/libs/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/build/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/detectmobilebrowser.js" afterPath="$PROJECT_DIR$/assets/js/libs/detectmobilebrowser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/isotope.pkgd.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.counterup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.easing.1.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.nicescroll.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.nicescroll.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/waypoints.js" afterPath="$PROJECT_DIR$/assets/js/libs/waypoints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/wow.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.flash.swf" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.flash.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.html5.js" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.html5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.js" afterPath="$PROJECT_DIR$/assets/js/libs/jwplayer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" afterPath="$PROJECT_DIR$/assets/css/libs/materialize.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Black.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Black.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Italic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Italic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-LightItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-LightItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Black.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Black.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-BlackItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-BlackItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-BoldItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-BoldItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Italic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Italic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-LightItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-LightItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-MediumItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-MediumItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-ThinItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-ThinItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/js/materialize.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/materialize.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/AjaxLoader.gif" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/AjaxLoader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/grabbing.png" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/grabbing.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.js" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.theme.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.transitions.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.transitions.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/ie9.css" afterPath="$PROJECT_DIR$/assets/css/libs/ie9.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/sweet-alert.css" afterPath="$PROJECT_DIR$/assets/css/libs/sweet-alert.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/sweet-alert.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/sweet-alert.min.js" />
     </list>
     <ignored path="sunilchowdhary.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,88 +292,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-10-10-Learning-Jekyll-1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="61" column="28" lean-forward="true" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="1242" column="49" lean-forward="false" selection-start-line="1242" selection-start-column="49" selection-end-line="1242" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wow.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/wow.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/common.js">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.easing.1.3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/jquery.easing.1.3.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.counterup.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/jquery.counterup.min.js">
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="94">
+              <caret line="88" column="27" lean-forward="false" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="owl.carousel.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.min.js">
+      <file leaf-file-name="LICENSE.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/build/font/roboto/LICENSE.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/build/font/material-design-icons/LICENSE.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -185,11 +342,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waypoints.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/waypoints.js">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/build/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="1143" lean-forward="false" selection-start-line="0" selection-start-column="1143" selection-end-line="0" selection-end-column="1143" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -207,7 +374,15 @@
       <find>downlo</find>
       <find>serv</find>
       <find>drop</find>
+      <find>public/build</find>
+      <find>_site/public</find>
+      <find>.js</find>
+      <find>favicon</find>
+      <find>assets/ima</find>
     </findStrings>
+    <replaceStrings>
+      <replace>_site/public/build</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -229,12 +404,14 @@
         <option value="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/assets/js/common.js" />
         <option value="$PROJECT_DIR$/assets/js/jquery.easing.1.3.js" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/assets/js/common.js" />
       </list>
     </option>
   </component>
@@ -242,10 +419,18 @@
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -294,9 +479,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,6 +504,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -333,43 +522,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sunilchowdhary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sunilchowdhary" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sunilchowdhary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sunilchowdhary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,21 +537,34 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="config&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml&#10;_conf&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$NODEJS$/node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="Roboto&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/assets/libs/materialize/font/roboto/Roboto-Regular.ttf&#10;config&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml&#10;_conf&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_interpreter_path" value="D:/Softwares_Educational/node-v6.10.0-win-x86/node-v6.10.0-win-x86/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Softwares_Educational\node-v6.10.0-win-x86\node-v6.10.0-win-x86\node.exe" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="D:\Freelance\sunilchowdhary.com\sunilchowdhary\node_modules\gulp" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public\build" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public\build\fonts" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public\build\font" />
       <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\assets\js" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\assets\css\libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\assets" />
-      <recent name="C:\Users\Anonymous\Dropbox\sunilchowdhary.com\sunilchowdhary\_posts" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public\build\font" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public\build" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\public" />
+      <recent name="D:\Freelance\sunilchowdhary.com\sunilchowdhary\assets\css\libs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gulp.js.Gulp">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -480,6 +650,136 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -494,6 +794,15 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -538,6 +847,15 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -571,6 +889,12 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -599,6 +923,53 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Gulp" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>$NODEJS$/node</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Node" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="main" />
+      </scripts>
+      <node-interpreter value="$NODEJS$/node" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.Gulp" />
+      <item index="1" class="java.lang.String" itemvalue="npm.Node" />
+    </list>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -649,11 +1020,15 @@
       <workItem from="1477492847203" duration="8214000" />
       <workItem from="1478051022142" duration="112000" />
       <workItem from="1478051172813" duration="617000" />
+      <workItem from="1488054905179" duration="109000" />
+      <workItem from="1488055162024" duration="1382000" />
+      <workItem from="1488056591140" duration="359000" />
+      <workItem from="1488056988747" duration="14309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31128000" />
+    <option name="totallyTimeSpent" value="47287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -662,33 +1037,37 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3927987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17184943" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3878887" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.26145554" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2806354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.73854446" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -710,149 +1089,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-02-where-did-the-cookie-come-from.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Learn-js-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/newsletter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-what-is-sour-dough.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-02-where-did-the-cookie-come-from.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Learn-js-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/newsletter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-what-is-sour-dough.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-02-where-did-the-cookie-come-from.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Learn-js-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/newsletter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-what-is-sour-dough.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-02-where-did-the-cookie-come-from.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Learn-js-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/fullblogwithsidebar.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/singleblog.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -938,11 +1174,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css">
+    <entry file="file://$PROJECT_DIR$/assets/libs-old/materialize/css/materialize.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26112">
           <caret line="1536" column="49" lean-forward="false" selection-start-line="1536" selection-start-column="49" selection-end-line="1536" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -958,7 +1192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,7 +1199,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,7 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -982,7 +1213,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="40" column="51" lean-forward="false" selection-start-line="40" selection-start-column="51" selection-end-line="41" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,87 +1220,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/gmaps.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/gmaps.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="61" column="28" lean-forward="true" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1242" column="49" lean-forward="false" selection-start-line="1242" selection-start-column="49" selection-end-line="1242" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.easing.1.3.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/jquery.easing.1.3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.counterup.min.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/jquery.counterup.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/waypoints.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/waypoints.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/wow.min.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/wow.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1078,6 +1262,216 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1028">
+          <caret line="81" column="98" lean-forward="false" selection-start-line="81" selection-start-column="95" selection-end-line="81" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2295">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="261">
+            <caret line="137" column="22" lean-forward="true" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunilchowdhary.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/materialize.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/libs/materialize.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/libs/owl.transitions.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/libs/ie9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/libs/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/fontsaa/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/font/roboto/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/font/material-design-icons/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1143" lean-forward="false" selection-start-line="0" selection-start-column="1143" selection-end-line="0" selection-end-column="1143" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/sweet-alert.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/skype-uri.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/libs/jwplayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="88" column="27" lean-forward="false" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
           <folding />
         </state>
       </provider>

@@ -86,10 +86,8 @@ $(window).load(function(){
 
 	// Preloader
     $('.loader').fadeOut();    
-    $('#preloader').delay(350).fadeOut('slow');
-    $('body').delay(350);
-
-
+    $('#preloader').delay(50).fadeOut('slow');
+    $('body').delay(50);
 
 	// blog post slider
 	(function(){

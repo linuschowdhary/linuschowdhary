@@ -121,11 +121,24 @@ Optimize images :
 1) https://github.com/nidi3/jekyll-image_optimizer [Didnt' work, too lazy to go with y]
 gem install jekyll-image_optimizer [Didn't work]
 
-2)https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/
+2)https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/ //to optimize images
 
 https://www.cloudflare.com/a/performance/sunilchowdhary.com#minify
+//to enable caching , minimized css and js files  and CDN
+
 //Get optimized css, images and js from :
 https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsunilchowdhary.com%2F&tab=desktop
+
+https://www.toptal.com/javascript/optimize-js-and-css-with-gulp
+//gulp to optimize css and js files
+
+Install gulp using npm
+Node js runs only on IntelliJ IDEA Ultimate 
+Intellij Ultimate 2016.3.4  Activation
+http://www.aku.vn/idea
+Select "License server" and input "http://www.aku.vn/idea" and click "OK" activation JetBrains' product.
+
+Download Nodejs from : https://nodejs.org/en/
 
 
 

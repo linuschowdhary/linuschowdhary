@@ -2,275 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e1f4bff-dc85-4ede-84b4-6ca45d4db90e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1088128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/2a7cfe0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Sapient.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TCS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/_text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/_text_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cemk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cmt1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cmt2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dropdowncallbutton_24px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fun-facts-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/home-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/infosys.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/marker-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/me-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/me.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/paypalpaybutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/person.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sccs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sjv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/skills-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/unknown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/video-placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/css/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/js/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/sweet-alert.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/libs-old/sweetalert/sweet-alert.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/material-design-icons/Material-Design-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/font/roboto/Roboto-Thin.woff2" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/font/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/installchocolatey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/me_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/detectmobilebrowser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/isotope.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.nicescroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/skype-uri.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/waypoints.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/wow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.flash.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/jwplayer/jwplayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/css/materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-BlackItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-MediumItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/font/roboto/Roboto-ThinItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/materialize/js/materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/AjaxLoader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/grabbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/owl-carousel/owl.transitions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/ie9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/sweet-alert.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/libs/sweetalert/sweet-alert.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/installchocolatey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/me_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/skype-uri.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" afterPath="$PROJECT_DIR$/_posts/2016-10-10-Learning-Jekyll-1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/js/common.js" afterPath="$PROJECT_DIR$/_site/assets/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog.html" afterPath="$PROJECT_DIR$/_site/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/information/2016/01/01/Learn-js-1.html" afterPath="$PROJECT_DIR$/_site/information/2016/01/01/Learn-js-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/information/2016/01/01/what-is-sour-dough.html" afterPath="$PROJECT_DIR$/_site/information/2016/01/01/what-is-sour-dough.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/information/2016/01/02/where-did-the-cookie-come-from.html" afterPath="$PROJECT_DIR$/_site/information/2016/01/02/where-did-the-cookie-come-from.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/information/2016/05/25/how-does-yeast-work.html" afterPath="$PROJECT_DIR$/_site/information/2016/05/25/how-does-yeast-work.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/jekyll installation/2016/10/10/Learning-Jekyll-1.html" afterPath="$PROJECT_DIR$/_site/jekyll installation/2016/10/10/Learning-Jekyll-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/make-a-payment-success.html" afterPath="$PROJECT_DIR$/_site/make-a-payment-success.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/make-a-payment.html" afterPath="$PROJECT_DIR$/_site/make-a-payment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/single.html" afterPath="$PROJECT_DIR$/_site/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/public/build/js/bundle-min.js" afterPath="$PROJECT_DIR$/_site/public/build/js/bundle-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/public/build/js/bundle.js" afterPath="$PROJECT_DIR$/_site/public/build/js/bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/common.js" afterPath="$PROJECT_DIR$/assets/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/normalize.css" afterPath="$PROJECT_DIR$/assets/css/libs/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/libs/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/build/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/font/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/detectmobilebrowser.js" afterPath="$PROJECT_DIR$/assets/js/libs/detectmobilebrowser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/isotope.pkgd.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.counterup.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.nicescroll.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/jquery.nicescroll.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/waypoints.js" afterPath="$PROJECT_DIR$/assets/js/libs/waypoints.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/wow.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/wow.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.flash.swf" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.flash.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.html5.js" afterPath="$PROJECT_DIR$/assets/libs-old/jwplayer/jwplayer.html5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/jwplayer/jwplayer.js" afterPath="$PROJECT_DIR$/assets/js/libs/jwplayer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" afterPath="$PROJECT_DIR$/assets/css/libs/materialize.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Black.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Black.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-BlackItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Bold.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-BoldItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Italic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Italic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Light.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-LightItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-LightItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Medium.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-MediumItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-Thin.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto-bak/Roboto-ThinItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/LICENSE.txt" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Black.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Black.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-BlackItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-BlackItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Bold.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-BoldItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-BoldItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Italic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Italic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Light.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-LightItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-LightItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Medium.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-MediumItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-MediumItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-Thin.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/font/roboto/Roboto-ThinItalic.ttf" afterPath="$PROJECT_DIR$/assets/libs-old/materialize/font/roboto/Roboto-ThinItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/materialize/js/materialize.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/materialize.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/AjaxLoader.gif" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/AjaxLoader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/grabbing.png" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/grabbing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.js" afterPath="$PROJECT_DIR$/assets/libs-old/owl-carousel/owl.carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.theme.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/owl-carousel/owl.transitions.css" afterPath="$PROJECT_DIR$/assets/css/libs/owl.transitions.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/ie9.css" afterPath="$PROJECT_DIR$/assets/css/libs/ie9.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/sweet-alert.css" afterPath="$PROJECT_DIR$/assets/css/libs/sweet-alert.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/libs/sweetalert/sweet-alert.min.js" afterPath="$PROJECT_DIR$/assets/js/libs/sweet-alert.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/js/bundle-min.js" afterPath="$PROJECT_DIR$/public/build/js/bundle-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/js/bundle.js" afterPath="$PROJECT_DIR$/public/build/js/bundle.js" />
     </list>
     <ignored path="sunilchowdhary.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -295,8 +33,8 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="493">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -315,10 +53,17 @@
       <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="88" column="27" lean-forward="false" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+            <state relative-caret-position="234">
+              <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills-bg.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/skills-bg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -376,9 +121,9 @@
       <find>drop</find>
       <find>public/build</find>
       <find>_site/public</find>
-      <find>.js</find>
       <find>favicon</find>
       <find>assets/ima</find>
+      <find>.js</find>
     </findStrings>
     <replaceStrings>
       <replace>_site/public/build</replace>
@@ -525,10 +270,6 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -539,7 +280,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="$NODEJS$/node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="Roboto&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/assets/libs/materialize/font/roboto/Roboto-Regular.ttf&#10;config&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml&#10;_conf&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml" />
+    <property name="SearchEverywhereHistoryKey" value="skills&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/public/images/skills-bg.jpg&#10;Roboto&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/assets/libs/materialize/font/roboto/Roboto-Regular.ttf&#10;config&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml&#10;_conf&#9;FILE&#9;file://D:/Freelance/sunilchowdhary.com/sunilchowdhary/_config.yml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -1023,16 +764,16 @@
       <workItem from="1488054905179" duration="109000" />
       <workItem from="1488055162024" duration="1382000" />
       <workItem from="1488056591140" duration="359000" />
-      <workItem from="1488056988747" duration="14309000" />
+      <workItem from="1488056988747" duration="17063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47287000" />
+    <option name="totallyTimeSpent" value="50041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1043,13 +784,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3927987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3927987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3878887" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46317512" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.26145554" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.2652439" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.73854446" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.7347561" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1089,7 +830,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/fullblogwithsidebar.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/singleblog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -1452,14 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1468,10 +1200,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/skills-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="88" column="27" lean-forward="false" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+        <state relative-caret-position="234">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding />
         </state>
       </provider>

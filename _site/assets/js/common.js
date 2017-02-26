@@ -80,14 +80,23 @@ $(document).ready(function(){
 
 });
 
+$(function(){
+    // Preloader
+    $('.loader').fadeOut();
+    $('#preloader').delay(50).fadeOut('slow');
+    $('body').delay(50);
+
+});
 
 // callback after loading the window
 $(window).load(function(){
 
 	// Preloader
-    $('.loader').fadeOut();    
+/*
+    $('.loader').fadeOut();
     $('#preloader').delay(50).fadeOut('slow');
     $('body').delay(50);
+*/
 
 	// blog post slider
 	(function(){

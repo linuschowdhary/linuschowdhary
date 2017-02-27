@@ -46,15 +46,7 @@
     <script src="assets/js/html5shiv.js"></script>
     <![endif]-->
 
-    <!--Start of Zopim Live Chat Script-->
-    <script type="text/javascript">
-        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-            $.src="//v2.zopim.com/?44nocgnjmHZeT8bK2SAzlTADavKYWRw9";z.t=+new Date;$.
-                    type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-    </script>
-    <!--End of Zopim Live Chat Script-->
+
 
 
 
@@ -70,7 +62,9 @@
         </svg>
     </div>
 </div><!--preloader end-->
-
+<!--hove opacity on content on click of contact button-->
+<div id="hoverovercontent">
+</div>
 <!-- Main Container -->
 <main id="app" class="main-section">
 
@@ -119,17 +113,17 @@
 
 								<li><a href="#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
 								</li>
-								<li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
-								</li>
+								<!--<li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
+								</li>-->
 								<li><a href="#portfolio" data-section="#portfolio" class="menu-smooth-scroll"><i class="fa fa-briefcase fa-fw"></i>Portfolio</a>
 								</li>
 								<!--<li><a href="#team" data-section="#team" class="menu-smooth-scroll"><i class="fa fa-users fa-fw"></i>Team</a>
 								</li>-->
 								<li><a href="#testimonial" data-section="#testimonial" class="menu-smooth-scroll"><i class="fa fa-comments fa-fw"></i>Testimonial</a>
 								</li>
-								<li><a href="#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
+								<li><a href="/blog.html"><i class="fa fa-pencil fa-fw"></i>Blog</a>
 								</li>
-								<li><a href="#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
+								<li><a class="contact_zendesk" href="javascript:void(0)" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
 								</li>
 							</ul>
 							<ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
@@ -364,6 +358,48 @@ Download Nodejs from : https://nodejs.org/en/
 
 </script>
 <!--GA ends-->
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+    window.$zopim || (function (d, s) {
+        var z = $zopim = function (c) {
+            z._.push(c)
+        }, $ = z.s =
+            d.createElement(s), e = d.getElementsByTagName(s)[0];
+        z.set = function (o) {
+            z.set._.push(o)
+        };
+        z._ = [];
+        z.set._ = [];
+        $.async = !0;
+        $.setAttribute("charset", "utf-8");
+        $.src = "//v2.zopim.com/?44nocgnjmHZeT8bK2SAzlTADavKYWRw9";
+        z.t = +new Date;
+        $.type = "text/javascript";
+        e.parentNode.insertBefore($, e)
+    })(document, "script");
+</script>
+<script>
+    $(function () {
+        $(".zopim:first").initialize(function () {
+            console.log(1);
+            $(".contact_zendesk").on("click", function () {
+                if ($($(".zopim").get(0)).is(":visible")) {
+                    $("#hoverovercontent").css("display", "block") && $($(".zopim").get(0)).find("iframe").contents().find(".border_overlay.meshim_widget_widgets_BorderOverlay").click();
+                } else {
+                    $("#hoverovercontent").css("display", "none") && $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").click();
+                    $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").on("click",function(){$("#hoverovercontent").css("display", "none");});
+                }
+            });
+
+
+        });
+    });
+
+</script>
+
+
+<!--End of Zopim Live Chat Script-->
 </body>
 
 </html>

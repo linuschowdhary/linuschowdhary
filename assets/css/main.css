@@ -52,6 +52,7 @@ body{font-family:'Roboto', sans-serif;font-size:16px;color:#fff;font-weight:400;
 .padd-tb-60{padding-top:60px;padding-bottom:60px;}
 .padd-tb-73{padding-top:73px;padding-bottom:73px;}
 .padd-tb-55{padding-top:55px;padding-bottom:55px;}
+.padd-tb-15{padding-top:15px;padding-bottom:15px;}
 .row{margin-bottom:0;}
 .bottom-50{margin-bottom:50px;}
 .btn-large{height:50px;line-height:50px;text-transform:inherit;margin-bottom:0;}
@@ -389,3 +390,13 @@ span.t-white{width:2em;height:2em;position:absolute;top:-0.2em;left:45%;-webkit-
 .skypebutton p a{display:inline-flex;}
 .person-img>img:hover{border-top-left-radius:120px;border-bottom-right-radius:120px;border-top-right-radius:15px;border-bottom-left-radius:15px;}
 .person-img>img{border-bottom-left-radius:120px;border-top-right-radius:120px;border-bottom-right-radius:15px;border-top-left-radius:15px;-webkit-transition:all 0.7s ease;transition:all 0.7s ease;}
+div#hoverovercontent {
+    background: none repeat scroll 0 0 #fff;
+    display: none;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    z-index: 334;
+    opacity: 0.75;
+}

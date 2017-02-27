@@ -230,6 +230,15 @@ jQuery.extend( jQuery.easing,
  * OF THE POSSIBILITY OF SUCH DAMAGE. 
  *
  */
+/*!
+ * jQuery initialize - v1.0.0 - 12/14/2016
+ * https://github.com/adampietrasiak/jquery.initialize
+ *
+ * Copyright (c) 2015-2016 Adam Pietrasiak
+ * Released under the MIT license
+ * https://github.com/timpler/jquery.initialize/blob/master/LICENSE
+ */
+!function(i){var t=function(i,t){this.selector=i,this.callback=t},e=[];e.initialize=function(e,n){var c=[],a=function(){-1==c.indexOf(this)&&(c.push(this),i(this).each(n))};i(e).each(a),this.push(new t(e,a))};var n=new MutationObserver(function(){for(var t=0;t<e.length;t++)i(e[t].selector).each(e[t].callback)});n.observe(document.documentElement,{childList:!0,subtree:!0,attributes:!0}),i.fn.initialize=function(i){e.initialize(this.selector,i)},i.initialize=function(i,t){e.initialize(i,t)}}(jQuery);
 /* jquery.nicescroll 3.5.4 InuYaksa*2013 MIT http://areaaperta.com/nicescroll */(function(e){"function"===typeof define&&define.amd?define(["jquery"],e):e(jQuery)})(function(e){var y=!1,C=!1,J=5E3,K=2E3,x=0,F=["ms","moz","webkit","o"],s=window.requestAnimationFrame||!1,v=window.cancelAnimationFrame||!1;if(!s)for(var L in F){var D=F[L];s||(s=window[D+"RequestAnimationFrame"]);v||(v=window[D+"CancelAnimationFrame"]||window[D+"CancelRequestAnimationFrame"])}var z=window.MutationObserver||window.WebKitMutationObserver||!1,G={zindex:"auto",cursoropacitymin:0,cursoropacitymax:1,cursorcolor:"#424242",
 cursorwidth:"5px",cursorborder:"1px solid #fff",cursorborderradius:"5px",scrollspeed:60,mousescrollstep:24,touchbehavior:!1,hwacceleration:!0,usetransition:!0,boxzoom:!1,dblclickzoom:!0,gesturezoom:!0,grabcursorenabled:!0,autohidemode:!0,background:"",iframeautoresize:!0,cursorminheight:32,preservenativescrolling:!0,railoffset:!1,bouncescroll:!0,spacebarenabled:!0,railpadding:{top:0,right:0,left:0,bottom:0},disableoutline:!0,horizrailenabled:!0,railalign:"right",railvalign:"bottom",enabletranslate3d:!0,
 enablemousewheel:!0,enablekeyboard:!0,smoothscroll:!0,sensitiverail:!0,enablemouselockapi:!0,cursorfixedheight:!1,directionlockdeadzone:6,hidecursordelay:400,nativeparentscrolling:!0,enablescrollonselection:!0,overflowx:!0,overflowy:!0,cursordragspeed:0.3,rtlmode:"auto",cursordragontouch:!1,oneaxismousemode:"auto",scriptpath:function(){var e=document.getElementsByTagName("script"),e=e[e.length-1].src.split("?")[0];return 0<e.split("/").length?e.split("/").slice(0,-1).join("/")+"/":""}()},E=!1,M=function(){if(E)return E;
@@ -720,6 +729,7 @@ $(window).resize(function(){
 	}, 2000);
 
 });
+
 "use strict";
 var scrollDirection, $ = jQuery;
 
@@ -1076,8 +1086,8 @@ $(document).ready(function($){
 
 	/* Choose your navigation style */
 
-	menuFun.intelligent_menu(); // Hide intelligently
-	// menuFun.fixed_menu(); // Always fixed
+	//menuFun.intelligent_menu(); // Hide intelligently
+	 menuFun.fixed_menu(); // Always fixed
 	// menuFun.mobile_intelligent_menu(); // Hide on Mobile Devices
 
 
@@ -1117,7 +1127,7 @@ $(document).ready(function($){
 					if ( active_section.attr('id') != 'home' ) {
 
 						var active_link = $('.menu-smooth-scroll[href="#' + active_section.attr("id") + '"]');
-						//active_link.parent('li').addClass("current").siblings().removeClass("current");
+						active_link.parent('li').addClass("current").siblings().removeClass("current");
 					} else {
 						$('.menu-smooth-scroll').parent('li').removeClass('current');
 					}

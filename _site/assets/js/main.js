@@ -354,8 +354,8 @@ $(document).ready(function($){
 
 	/* Choose your navigation style */
 
-	menuFun.intelligent_menu(); // Hide intelligently
-	// menuFun.fixed_menu(); // Always fixed
+	//menuFun.intelligent_menu(); // Hide intelligently
+	 menuFun.fixed_menu(); // Always fixed
 	// menuFun.mobile_intelligent_menu(); // Hide on Mobile Devices
 
 
@@ -395,7 +395,7 @@ $(document).ready(function($){
 					if ( active_section.attr('id') != 'home' ) {
 
 						var active_link = $('.menu-smooth-scroll[href="#' + active_section.attr("id") + '"]');
-						//active_link.parent('li').addClass("current").siblings().removeClass("current");
+						active_link.parent('li').addClass("current").siblings().removeClass("current");
 					} else {
 						$('.menu-smooth-scroll').parent('li').removeClass('current');
 					}

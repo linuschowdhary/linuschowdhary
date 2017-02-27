@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var concat = require('gulp-concat');
 var minify = require('gulp-minify');
 var cleanCss = require('gulp-clean-css');
-
+var htmlmin = require('gulp-htmlmin');
 gulp.task('pack-js', function () {
     return gulp.src(['assets/js/jquery/*.js', 'assets/js/libs/*.js', 'assets/js/*.js'])
         .pipe(concat('bundle.js'))
@@ -28,4 +28,12 @@ gulp.task('pack-css', function () {
         .pipe(cleanCss())
         .pipe(gulp.dest('public/build/css'));
 });
+
+
+/*gulp.task('minify-html', function() {
+    return gulp.src('_site/!*.html')
+        .pipe(htmlmin({collapseWhitespace: true,removeComments:true}))
+        .pipe(gulp.dest('./_site'));
+});*/
+
 gulp.task('default', ['pack-js', 'pack-css']);

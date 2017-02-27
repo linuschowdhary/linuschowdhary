@@ -786,7 +786,7 @@ var scrollDirection, $ = jQuery;
 
 $(document).ready(function($){
 
-	var sklSlider = $("#skillSlider");
+	/*var sklSlider = $("#skillSlider");
 
 
 	// sklSlider.owlCarousel({
@@ -901,7 +901,7 @@ $(document).ready(function($){
 			tmData.next();
 		}
 	});
-
+	 */
 
 	var tesMoSlider = $("#testimonialSlider");
 		tesMoSlider.owlCarousel({
@@ -971,11 +971,11 @@ $(document).ready(function($){
 	});
 
 	// Animate scrolling on hire me button
-    $('.hire-me-btn').on('click', function(e) {
+    /*$('.hire-me-btn').on('click', function(e) {
         e.preventDefault();
         $('html, body').animate({scrollTop: $("#contact").offset().top}, 500);
     });
-
+*/
 
 
 
@@ -1084,7 +1084,7 @@ $(document).ready(function($){
 	window.menuFun = menuFun;
 
 
-	/* Choose your navigation style */
+	/!* Choose your navigation style *!/
 
 	//menuFun.intelligent_menu(); // Hide intelligently
 	 menuFun.fixed_menu(); // Always fixed
@@ -1137,18 +1137,8 @@ $(document).ready(function($){
 		}
 
 	}());
-
-
-
-
-
-
-
-
-
-
 	// Map
-	var mapStyle = [
+	/*var mapStyle = [
 	    {
 	        "featureType": "landscape",
 	        "stylers": [
@@ -1296,7 +1286,7 @@ $(document).ready(function($){
 				content: '<p>Rishra, sweet home! :)</p>'
 			}
 		});
-	}
+	}*/
 
 }(jQuery));
 
@@ -1422,7 +1412,7 @@ $(window).load(function(){
 		});
 	}
 
-	// skills animation
+	/*// skills animation
 	$('#skillSlider').waypoint({
 		handler: function(event, direction) {
 			$(this).find('.singel-hr-inner').each(function(){
@@ -1431,7 +1421,7 @@ $(window).load(function(){
 			});
 		},
 		offset: '60%'
-	});
+	});*/
 
 
 	// Wow init
@@ -1457,6 +1447,7 @@ if ( $countNumb.length > 0 ) {
 }
 
 
+/*
 
 $('#contactForm').on('submit', function(e){
 	e.preventDefault();
@@ -1523,4 +1514,21 @@ $('#contactForm').on('submit', function(e){
 			clearTimeout(hand);
 		}, 1000);
 	});
+});
+*/
+
+$(function () {
+    $(".zopim:first").initialize(function () {
+        console.log(1);
+        $(".contact_zendesk").on("click", function () {
+            $(this).hasClass("hire-me-btn") && $(".hire-me-btn").addClass("z-index-200");
+            !$(this).hasClass("hire-me-btn") && $(".hire-me-btn").removeClass("z-index-200");
+            if ($($(".zopim").get(0)).is(":visible")) {
+                $("#hoverovercontent").css("display", "block") && $($(".zopim").get(0)).find("iframe").contents().find(".border_overlay.meshim_widget_widgets_BorderOverlay").click();
+            } else {
+                $("#hoverovercontent").css("display", "none") && $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").click();
+                $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").on("click",function(){$("#hoverovercontent").css("display", "none");});
+            }
+        });
+    });
 });

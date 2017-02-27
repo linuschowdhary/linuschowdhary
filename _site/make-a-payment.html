@@ -123,7 +123,7 @@
 								</li>
 								<li><a href="/blog.html" class=""><i class="fa fa-pencil fa-fw"></i>Blog</a>
 								</li>
-								<li><a href="/index.html#contact" data-section="#contact" class=""><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
+								<li><a href="/index.html#about" data-section="#about" class=""><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
 								</li>
 							</ul>
 							<ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
@@ -269,24 +269,6 @@
         $.type = "text/javascript";
         e.parentNode.insertBefore($, e)
     })(document, "script");
-</script>
-<script>
-    $(function () {
-        $(".zopim:first").initialize(function () {
-            console.log(1);
-            $(".contact_zendesk").on("click", function () {
-                if ($($(".zopim").get(0)).is(":visible")) {
-                    $("#hoverovercontent").css("display", "block") && $($(".zopim").get(0)).find("iframe").contents().find(".border_overlay.meshim_widget_widgets_BorderOverlay").click();
-                } else {
-                    $("#hoverovercontent").css("display", "none") && $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").click();
-                    $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").on("click",function(){$("#hoverovercontent").css("display", "none");});
-                }
-            });
-
-
-        });
-    });
-
 </script>
 
 

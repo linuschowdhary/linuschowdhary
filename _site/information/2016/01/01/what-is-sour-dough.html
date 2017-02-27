@@ -294,24 +294,6 @@ private boolean hasReadAccess(Node pageNode, Session userSession) throws Reposit
         e.parentNode.insertBefore($, e)
     })(document, "script");
 </script>
-<script>
-    $(function () {
-        $(".zopim:first").initialize(function () {
-            console.log(1);
-            $(".contact_zendesk").on("click", function () {
-                if ($($(".zopim").get(0)).is(":visible")) {
-                    $("#hoverovercontent").css("display", "block") && $($(".zopim").get(0)).find("iframe").contents().find(".border_overlay.meshim_widget_widgets_BorderOverlay").click();
-                } else {
-                    $("#hoverovercontent").css("display", "none") && $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").click();
-                    $($(".zopim").get(1)).find("iframe").contents().find(".overlay.jx_ui_Widget").on("click",function(){$("#hoverovercontent").css("display", "none");});
-                }
-            });
-
-
-        });
-    });
-
-</script>
 
 
 <!--End of Zopim Live Chat Script-->

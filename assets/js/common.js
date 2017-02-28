@@ -16,8 +16,6 @@ $(document).ready(function(){
 		$('.side-nav').removeClass('hide');
 	});
 
-
-
 	$(".blog-submenu-init").dropdown({
 		inDuration: 300,
 		outDuration: 225,
@@ -28,10 +26,7 @@ $(document).ready(function(){
 		belowOrigin: true
 	});
 
-
 	$(".primary-nav .button-collapse").sideNav();
-
-
 	// jwplayer video post
 	(function(){
 		$('.player').each(function(){
@@ -171,7 +166,7 @@ $(window).resize(function(){
 /*typed js for 404*/
 $(function(){
     $(".element-typed").typed({
-        strings: ["Sorry , this page surely do not exists here . ","Trying to redirect to homepage in few moments..."],
+        strings: ["Aha ! Requested page surely do not exists here . ","Trying to redirect to homepage in few moments..."],
         typeSpeed: 0
     });
 });

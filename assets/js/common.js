@@ -168,3 +168,10 @@ $(window).resize(function(){
 	}, 2000);
 
 });
+/*typed js for 404*/
+$(function(){
+    $(".element-typed").typed({
+        strings: ["Sorry , this page surely do not exists here . ","Trying to redirect to homepage in few moments..."],
+        typeSpeed: 0
+    });
+});

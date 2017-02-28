@@ -403,3 +403,33 @@ div#hoverovercontent {
 .z-index-200{
  z-index: 200;
 }
+/*typed css*/
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+.element-typed{
+    position: fixed;
+    top: 50%;
+    left: 35%;
+    color: #00bcd4!important;
+    font-size: 1.5em;
+}

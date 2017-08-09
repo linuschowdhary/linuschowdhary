@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: singleblog
+date: March 26, 2015
 category: Information
+author: sunil
 ---
 
 1 ) Install Chocolatey in windows

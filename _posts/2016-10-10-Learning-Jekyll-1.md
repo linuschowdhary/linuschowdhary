@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Definition of sales
+date: March 24, 2015
 category: Jekyll Installation
 ---
 
@@ -139,6 +141,7 @@ http://www.aku.vn/idea
 Select "License server" and input "http://www.aku.vn/idea" and click "OK" activation JetBrains' product.
 
 Download Nodejs from : https://nodejs.org/en/
+
 
 
 
